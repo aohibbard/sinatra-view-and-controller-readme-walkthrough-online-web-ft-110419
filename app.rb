@@ -16,6 +16,4 @@ class App < Sinatra::Base
     erb :friends 
   end 
     # Write your code here!
-
-  end
 end
